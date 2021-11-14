@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Eldar Omerovic
+- 💻 I’m a SW Developer in Switzerland
