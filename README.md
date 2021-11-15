@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Eldar Omerovic
 - 💻 I’m a SW Developer in Switzerland
+- 👉 Here's my Gitlab Account: https://gitlab.com/omeldar
