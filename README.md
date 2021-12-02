@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Eldar Omerovic
-- 💻 I’m a SW Developer in Switzerland
+- 💻 I’m a SW Developer based in Switzerland
 - 👉 Here's my Gitlab Account: https://gitlab.com/omeldar
+- 👉 Here's my LinkedIn: https://www.linkedin.com/in/eldaromerovic/
