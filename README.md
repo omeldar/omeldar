@@ -4,7 +4,7 @@ I'm Eldar Omerovic, a software engineering student at Lucerne University of Appl
 
 ## Experience
 
-- Most experience definetly with C# and .NET technologies in general.
+- Most experience with C# and .NET technologies in general.
 - Some experience with Javascript languages and frameworks
 - Beginner with Rust but determined to learn more about it in my free time
 
