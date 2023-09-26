@@ -20,14 +20,14 @@ I'm a computer science student at the Lucerne University of Applied Sciences and
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&theme=github_dark&line_height=27&langs_count=4"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&theme=github_dark&line_height=27&langs_count=3"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&theme=graywhite&line_height=27&langs_count=4"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&theme=graywhite&line_height=27&langs_count=3"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&theme=graywhite&line_height=27&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&theme=graywhite&line_height=27&langs_count=3" />
 </picture>
 
 # Classes
