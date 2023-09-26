@@ -6,6 +6,32 @@ I'm a computer science student at the Lucerne University of Applied Sciences and
 
 # My Github Stats
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=omeldar&show_icons=true&theme=github_dark&show=prs_merged"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=omeldar&show_icons=true&theme=graywhite&show=prs_merged"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=omeldar&show_icons=true&theme=graywhite&show=prs_merged" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&layout=compact&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&layout=compact&theme=graywhite"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&layout=compact&theme=graywhite" />
+</picture>
+
+# old
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omeldar&show_icons=true&theme=github_dark&show=prs_merged&bg_color=00000000)](https://github.com/omeldar/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&layout=compact&theme=github_dark)
 
