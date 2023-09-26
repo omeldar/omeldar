@@ -15,19 +15,19 @@ I'm a computer science student at the Lucerne University of Applied Sciences and
     srcset="https://github-readme-stats.vercel.app/api?username=omeldar&show_icons=true&theme=graywhite&show=prs_merged&hide=html,css,scss,pug,php,hack"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=omeldar&show_icons=true&theme=graywhite&show=prs_merged&hide=html,css,scss,pug,php,hack" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omeldar&show_icons=true&theme=graywhite&show=prs_merged&hide=html,css,scss,pug,php,hack" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&theme=github_dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&theme=github_dark&line_height=27"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&theme=graywhite"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&theme=graywhite&line_height=27"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&theme=graywhite&line_height=27" />
 </picture>
 
 # Classes
