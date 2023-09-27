@@ -11,7 +11,7 @@ I'm a computer science student at the Lucerne University of Applied Sciences and
 ![NodeJS](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=rgb(0%2C137%2C255))
 ![Docker](<https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=rgb(0%2C137%2C255)>)
 
-# My Github Stats & Trophies
+# My Github Stats
 
 <a href="https://github.com/omeldar/omeldar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omeldar&show_icons=true&line_height=27&count_private=true&theme=transparent&show=prs_merged&hide=contribs&custom_title=My%20Stats" alt="Eldar Omerovic's GitHub Stats" />
@@ -20,8 +20,8 @@ I'm a computer science student at the Lucerne University of Applied Sciences and
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&hide=html,css,scss,pug,php,hack&theme=transparent&layout=donut" alt="Eldar Omerovic's GitHub Stats" />
 </a>
 
-## Trophies
+## Streak
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=omeldar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 # Classes at UNI
