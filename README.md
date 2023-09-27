@@ -6,28 +6,11 @@ I'm a computer science student at the Lucerne University of Applied Sciences and
 
 # My Github Stats
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=omeldar&show_icons=true&theme=github_dark&show=prs_merged&hide=html,css,scss,pug,php,hack"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=omeldar&show_icons=true&theme=graywhite&show=prs_merged&hide=html,css,scss,pug,php,hack"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omeldar&show_icons=true&theme=graywhite&show=prs_merged&hide=html,css,scss,pug,php,hack" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&theme=github_dark&line_height=27&langs_count=3"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&theme=graywhite&line_height=27&langs_count=3"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&theme=graywhite&line_height=27&langs_count=3" />
-</picture>
+<a href="https://github.com/omeldar/omeldar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&hide=html,css,scss,pug,php,hack&langs_count=3&theme=github_dark" alt="Eldar Omerovic's GitHub Stats" />
+</a>
+<a href="https://github.com/omeldar/omeldar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omeldar&show_icons=true&line_height=27&count_private=true&theme=github_dark" alt="Eldar Omerovic's GitHub Stats" />
+</a>
 
 # Classes
