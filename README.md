@@ -4,13 +4,13 @@ I'm a computer science student at the Lucerne University of Applied Sciences and
 
 # What I work with the most
 
-![VSCode](<https://img.shields.io/badge/Editor-VS-informational?style=flat&logo=visual-studio&logoColor=white&color=rgb(251%2C140%2C0)>)
-![VSCode](<https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=rgb(251%2C140%2C0)>)
-![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=rgb(251%2C140%2C0))
-![Java](<https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=rgb(251%2C140%2C0)>)
-![Rust](<https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=rgb(251%2C140%2C0)>)
-![NodeJS](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=rgb(251%2C140%2C0))
-![Docker](<https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=rgb(251%2C140%2C0)>)
+![VSCode](<https://img.shields.io/badge/Editor-VS-informational?style=flat&logo=visual-studio&logoColor=white&color=rgb(83%2C155%2C245)>)
+![VSCode](<https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=rgb(83%2C155%2C245)>)
+![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=rgb(83%2C155%2C245))
+![Java](<https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=rgb(83%2C155%2C245)>)
+![Rust](<https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=rgb(83%2C155%2C245)>)
+![NodeJS](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=rgb(83%2C155%2C245))
+![Docker](<https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=rgb(83%2C155%2C245)>)
 
 # My Github Stats
 
