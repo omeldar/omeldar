@@ -22,6 +22,6 @@ I'm a computer science student at the Lucerne University of Applied Sciences and
 
 ## Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=omeldar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Classes at UNI
