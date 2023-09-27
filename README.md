@@ -23,6 +23,6 @@ I'm a computer science student at the Lucerne University of Applied Sciences and
 
 ## Streak
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omeldar&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-neon.vercel.app?user=omeldar&theme=github-dark-dimmed&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
 # Classes at UNI
