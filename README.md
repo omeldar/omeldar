@@ -4,13 +4,14 @@ I'm a computer science student at the Lucerne University of Applied Sciences and
 
 # What I work with the most
 
-![VSCode](<https://img.shields.io/badge/Editor-VS-informational?style=flat&logo=visual-studio&logoColor=white&color=rgb(83%2C155%2C245)>)
-![VSCode](<https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=rgb(83%2C155%2C245)>)
-![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=rgb(83%2C155%2C245))
-![Java](<https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=rgb(83%2C155%2C245)>)
-![Rust](<https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=rgb(83%2C155%2C245)>)
-![NodeJS](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=rgb(83%2C155%2C245))
-![Docker](<https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=rgb(83%2C155%2C245)>)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 # My Github Stats
 
