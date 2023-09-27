@@ -2,8 +2,9 @@
 
 I'm a computer science student at the Lucerne University of Applied Sciences and Arts. Besides that I work as a vocational trainer in software and platform engineering and I lead a few software projects.
 
-# What I work with
+# What I work with the most
 
+![VSCode](<https://img.shields.io/badge/Editor-VS-informational?style=flat&logo=visual-studio&logoColor=white&color=rgb(251%2C140%2C0)>)
 ![VSCode](<https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=rgb(251%2C140%2C0)>)
 ![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=rgb(251%2C140%2C0))
 ![Java](<https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=rgb(251%2C140%2C0)>)
