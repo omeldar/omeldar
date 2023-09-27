@@ -2,7 +2,7 @@
 
 I'm a computer science student at the Lucerne University of Applied Sciences and Arts. Besides that I work as a vocational trainer in software and platform engineering and I lead a few software projects.
 
-# What I work with the most
+# Technologies
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
