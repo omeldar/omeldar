@@ -4,12 +4,12 @@ I'm a computer science student at the Lucerne University of Applied Sciences and
 
 # What I work with
 
-![VSCode](<https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=rgb(0%2C137%2C255)>)
-![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=rgb(0%2C137%2C255))
-![Java](<https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=rgb(0%2C137%2C255)>)
-![Rust](<https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=rgb(0%2C137%2C255)>)
-![NodeJS](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=rgb(0%2C137%2C255))
-![Docker](<https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=rgb(0%2C137%2C255)>)
+![VSCode](<https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=rgb(100%2C69%2C35)>)
+![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=rgb(100%2C69%2C35))
+![Java](<https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=rgb(100%2C69%2C35)>)
+![Rust](<https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=rgb(100%2C69%2C35)>)
+![NodeJS](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=rgb(100%2C69%2C35))
+![Docker](<https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=rgb(100%2C69%2C35)>)
 
 # My Github Stats
 
