@@ -22,6 +22,6 @@ I'm a computer science student at the Lucerne University of Applied Sciences and
 
 ## Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omeldar)](https://git.io/streak-stats)
 
 # Classes at UNI
