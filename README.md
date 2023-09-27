@@ -20,6 +20,8 @@ I'm a computer science student at the Lucerne University of Applied Sciences and
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeldar&hide=html,css,scss,pug,php,hack&theme=transparent&layout=donut" alt="Eldar Omerovic's GitHub Stats" />
 </a>
 
+## Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Classes at UNI
