@@ -2,15 +2,6 @@
 
 I'm a computer science student at the Lucerne University of Applied Sciences and Arts. Besides that I work as a vocational trainer in software and platform engineering and I lead a few software projects.
 
-# Technologies
-
-<div align="left">
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" alt="Rust" title="Rust"/></code>
-</div>
-
 # My Github Stats
 
 <a href="https://github.com/omeldar/omeldar">
