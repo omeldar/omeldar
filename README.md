@@ -1,6 +1,6 @@
 # About me
 
-I'm a computer science student at the Lucerne University of Applied Sciences and Arts. Besides that I work as a vocational trainer in software and platform engineering and I lead a few software projects.
+I'm a computer science student at the Lucerne University of Applied Sciences and Arts. Besides that I work as a vocational trainer in software engineering.
 
 <a href="https://github.com/omeldar/omeldar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omeldar&show_icons=true&line_height=27&count_private=true&theme=transparent&show=prs_merged&hide=contribs&custom_title=My%20Stats" alt="Eldar Omerovic's GitHub Stats" />
